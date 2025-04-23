@@ -1,0 +1,33 @@
+{
+  "total_results": 1,
+  "items": [
+    {
+      "company_number": "06500244",
+      "company_type": "ltd",
+      "title": "BBC LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2008-02-11",
+      "address": {
+        "premises": "Boswell Cottage Main Street",
+        "locality": "Retford",
+        "address_line_1": "North Leverton",
+        "country": "England",
+        "postal_code": "DN22 0AD"
+      },
+      "officers": [
+        {
+          "name": "BOXALL, Sarah Victoria",
+          "officer_role": "secretary",
+          "appointed_on": "2008-02-11",
+          "address": {
+            "premises": "5",
+            "locality": "London",
+            "address_line_1": "Cranford Close",
+            "country": "England",
+            "postal_code": "SW20 0DP"
+          }
+        }
+      ]
+    }
+  ]
+}
