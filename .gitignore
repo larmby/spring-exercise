@@ -39,3 +39,5 @@ build/
 .java-version
 .idea/inspectionProfiles
 lib/
+target/
+
